@@ -17,6 +17,9 @@
 # Create a function to replicate string attribute like, ljust(), rjust()
 # Create a function to find, Palindrome, Fibo and Factorials
 # Create a function to generate range of numbers 
+# Create a module function with IDE/Editor
+# Create i example for each types of Inheritance
+
 
 
 
