@@ -18,7 +18,9 @@
 # Create a function to find, Palindrome, Fibo and Factorials
 # Create a function to generate range of numbers 
 # Create a module function with IDE/Editor
-# Create i example for each types of Inheritance
+# Create 1 example for each types of Inheritance
+# Create Program which makes Name Error and Type Error Handling both using Exceptions 
+
 
 
 
