@@ -29,25 +29,6 @@ def gcd_recursive(a, b):
 gcd_lambda = lambda a, b: a if b == 0 else gcd_lambda(b, a % b)
 
 print(gcd_recursive(48, 18))  # Output: 6
-print(gcd_lambda(48, 18))     # Output: 6
-
-
-
-
-
-
-
-
-def greet(name):
-    return f"Hello, {name}!"
-
-def add(a, b):
-    return a + b
-
-
-import mymodule
-
-print(mymodule.greet("Alice"))  # Output: Hello, Alice!
-print(mymodule.add(5, 7))       # Output: 12
+print(gcd_lambda(48, 18))     # Output
 
 
